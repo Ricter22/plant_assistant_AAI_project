@@ -1,0 +1,149 @@
+General plant pathology book 1:
+https://uwyoextension.org/psep/wp-content/uploads/2012/09/MP-27.pdf
+
+General plant pathology book 2:
+https://agsci.oregonstate.edu/sites/agscid7/files/ippc/plant_pathology-basics-cornell.pdf
+
+Practical disease management handbook:
+https://pnwhandbooks.org/plantdisease
+
+Apple:
+https://extension.umn.edu/fruit/growing-apples
+
+Blueberry:
+https://extension.umn.edu/fruit/growing-blueberries-home-garden
+
+Cherry / stone fruits:
+https://extension.umn.edu/fruit/growing-stone-fruits-home-garden
+
+Corn / maize:
+https://extension.umn.edu/vegetables/growing-sweet-corn
+
+Grape:
+https://extension.umn.edu/fruit/growing-grapes-home-garden
+
+Orange / citrus:
+https://www.aces.edu/blog/topics/fruits-lawn-garden/citrus-tree-care-for-the-home-gardener/
+
+Peach:
+https://extension.umn.edu/fruit/growing-stone-fruits-home-garden
+
+Bell pepper:
+https://extension.umn.edu/vegetables/growing-peppers
+
+Potato:
+https://extension.umn.edu/vegetables/growing-potatoes
+
+Raspberry:
+https://extension.umn.edu/fruit/growing-raspberries-home-garden
+
+Soybean:
+https://extension.umn.edu/soybean/growing-soybean
+
+Squash:
+https://extension.umn.edu/vegetables/growing-summer-squash-and-zucchini
+
+Strawberry:
+https://extension.umn.edu/fruit/growing-strawberries-home-garden
+
+Tomato:
+https://extension.umn.edu/vegetables/growing-tomatoes
+
+Apple scab:
+https://extension.umn.edu/plant-diseases/apple-scab
+https://www.apsnet.org/edcenter/pdlessons/Pages/AppleScab.aspx
+
+Apple black rot:
+https://extension.umn.edu/plant-diseases/black-rot-apple
+
+Apple cedar apple rust:
+https://extension.umn.edu/plant-diseases/cedar-apple-rust
+
+Cherry powdery mildew:
+https://treefruit.wsu.edu/crop-protection/disease-management/cherry-powdery-mildew/
+https://pnwhandbooks.org/plantdisease/host-disease/cherry-prunus-spp-powdery-mildew
+
+Corn gray leaf spot:
+https://extension.umn.edu/corn-pest-management/gray-leaf-spot-corn
+https://content.ces.ncsu.edu/gray-leaf-spot-in-corn
+
+Corn common rust:
+https://extension.umn.edu/corn-pest-management/common-rust-corn
+https://content.ces.ncsu.edu/corn-rusts-common-and-southern-rust
+
+Corn northern leaf blight:
+https://cropprotectionnetwork.org/publications/an-overview-of-northern-corn-leaf-blight
+
+Grape black rot:
+https://ohioline.osu.edu/factsheet/plpath-fru-24
+https://extension.psu.edu/grape-disease-black-rot/
+
+Grape Esca / black measles:
+https://ipm.ucanr.edu/agriculture/grape/esca-black-measles/
+https://pnwhandbooks.org/plantdisease/host-disease/grape-vitis-spp-esca-young-esca-petri-disease
+
+Grape leaf blight / Isariopsis leaf spot:
+https://content.ces.ncsu.edu/pdf/chapter-8-pest-management/2014-10-16/winegrapes8.pdf
+https://cafs.famu.edu/departments-and-centers/research/center-for-viticulture-and-small-fruit-research/pdf/Post-Harvest-Vineyard-Management-fact-sheet.pdf
+
+Orange Huanglongbing / citrus greening:
+https://www.aphis.usda.gov/plant-pests-diseases/citrus-diseases/citrus-greening-and-asian-citrus-psyllid
+https://ipm.ucanr.edu/home-and-landscape/asian-citrus-psyllid-and-huanglongbing-disease/
+
+Peach bacterial spot:
+https://ohioline.osu.edu/factsheet/plpath-fru-38
+https://www.aces.edu/blog/topics/crop-production/bacterial-spot-treatment-in-peaches/
+
+Bell pepper bacterial spot:
+https://extension.umn.edu/disease-management/bacterial-spot-tomato-and-pepper
+https://lgpress.clemson.edu/publication/controlling-bacterial-spot-on-tomato-and-pepper/
+
+Potato early blight:
+https://www.ndsu.edu/agriculture/extension/publications/early-blight-potato
+https://extension.umn.edu/disease-management/early-blight-tomato-and-potato
+
+Potato late blight:
+https://www.ndsu.edu/agriculture/extension/publications/late-blight-potato
+https://extension.umn.edu/disease-management/late-blight
+
+Squash powdery mildew:
+https://extension.umn.edu/disease-management/powdery-mildew-cucurbits
+https://pnwhandbooks.org/plantdisease/host-disease/squash-cucurbita-spp-powdery-mildew
+
+Strawberry leaf scorch:
+https://content.ces.ncsu.edu/leaf-scorch-of-strawberry
+https://ohioline.osu.edu/factsheet/plpath-fru-35
+
+Tomato bacterial spot:
+https://extension.umn.edu/disease-management/bacterial-spot-tomato-and-pepper
+https://ask.ifas.ufl.edu/publication/PP353
+
+Tomato early blight:
+https://extension.umn.edu/disease-management/early-blight-tomato-and-potato
+https://content.ces.ncsu.edu/early-blight-of-tomato
+
+Tomato late blight:
+https://extension.umn.edu/disease-management/late-blight
+https://pubs.extension.wsu.edu/product/season-long-management-of-late-blight-on-potato-and-tomato-in-western-washington/
+
+Tomato leaf mold:
+https://www.vegetables.cornell.edu/pest-management/disease-factsheets/tomato-leaf-mold/
+https://extension.umn.edu/disease-management/tomato-leaf-mold
+
+Tomato Septoria leaf spot:
+https://content.ces.ncsu.edu/septoria-leaf-spot-of-tomato
+https://extension.umn.edu/plant-diseases/tomato-leaf-spot-diseases
+
+Tomato spider mites / two-spotted spider mite:
+https://extension.umn.edu/yard-and-garden-insects/spider-mites
+
+Tomato target spot:
+https://ask.ifas.ufl.edu/publication/PP351
+
+Tomato mosaic virus:
+https://extension.umn.edu/disease-management/tomato-viruses
+https://content.ces.ncsu.edu/tobamoviruses-that-affect-tomato-tmv-tomv-tobrfv
+
+Tomato yellow leaf curl virus:
+https://content.ces.ncsu.edu/tomato-yellow-leaf-curl-virus
+https://ipm.ucanr.edu/agriculture/tomato/tomato-yellow-leaf-curl/

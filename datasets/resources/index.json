@@ -1,0 +1,1206 @@
+[
+  {
+    "id": "resource_001",
+    "url": "https://uwyoextension.org/psep/wp-content/uploads/2012/09/MP-27.pdf",
+    "labels": [
+      "General plant pathology book 1"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "application/pdf",
+    "final_url": "https://uwyoextension.org/psep/wp-content/uploads/2012/09/MP-27.pdf",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_001_general-plant-pathology-book-1.pdf",
+    "document_file": "documents/resource_001_general-plant-pathology-book-1.md",
+    "sha256": "1fa31886b3357b00a0b93b7dafcdfd12a9a97bfdccf0938bca9475c2ea79e128",
+    "bytes": 319790,
+    "title": "resource_001_general-plant-pathology-book-1",
+    "extracted_characters": 35581
+  },
+  {
+    "id": "resource_002",
+    "url": "https://agsci.oregonstate.edu/sites/agscid7/files/ippc/plant_pathology-basics-cornell.pdf",
+    "labels": [
+      "General plant pathology book 2"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "application/pdf",
+    "final_url": "https://agsci.oregonstate.edu/sites/agscid7/files/ippc/plant_pathology-basics-cornell.pdf",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_002_general-plant-pathology-book-2.pdf",
+    "document_file": "documents/resource_002_general-plant-pathology-book-2.md",
+    "sha256": "3b0a4c33e5a9f10868303f4cdecbd826e2a7ca2230872ffa9935cffebf149644",
+    "bytes": 19630429,
+    "title": "resource_002_general-plant-pathology-book-2",
+    "extracted_characters": 30964
+  },
+  {
+    "id": "resource_003",
+    "url": "https://pnwhandbooks.org/plantdisease",
+    "labels": [
+      "Practical disease management handbook"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://pnwhandbooks.org/plantdisease",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_003_practical-disease-management-handbook.html",
+    "document_file": "documents/resource_003_practical-disease-management-handbook.md",
+    "sha256": "984308cb0afb6a5ab93cbef1ccaa4c3f2fb84675587dd642132f9c3fff8db717",
+    "bytes": 71899,
+    "title": "Plant Disease Management Handbook | Pacific Northwest Pest Management Handbooks",
+    "extracted_characters": 31608
+  },
+  {
+    "id": "resource_004",
+    "url": "https://extension.umn.edu/fruit/growing-apples",
+    "labels": [
+      "Apple"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.umn.edu/fruit/growing-apples",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_004_apple.html",
+    "document_file": "documents/resource_004_apple.md",
+    "sha256": "a1f9f784cefb761c8ac10ba9b86d48c8ea217c339bb97b1bc97645dc30da38a0",
+    "bytes": 81553,
+    "title": "Growing apples in the home garden | UMN Extension",
+    "extracted_characters": 17882
+  },
+  {
+    "id": "resource_005",
+    "url": "https://extension.umn.edu/fruit/growing-blueberries-home-garden",
+    "labels": [
+      "Blueberry"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.umn.edu/fruit/growing-blueberries-home-garden",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_005_blueberry.html",
+    "document_file": "documents/resource_005_blueberry.md",
+    "sha256": "6cbd1144471dd8053d8eb86eb384b50be8a5d748bac5abbe91745b28c3a1ae8e",
+    "bytes": 67739,
+    "title": "Growing blueberries in the home garden | UMN Extension",
+    "extracted_characters": 15590
+  },
+  {
+    "id": "resource_006",
+    "url": "https://extension.umn.edu/fruit/growing-stone-fruits-home-garden",
+    "labels": [
+      "Cherry / stone fruits",
+      "Peach"
+    ],
+    "source_entry_count": 2,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.umn.edu/fruit/growing-stone-fruits-home-garden",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_006_cherry-stone-fruits.html",
+    "document_file": "documents/resource_006_cherry-stone-fruits.md",
+    "sha256": "ffe01b749b5295dacee918d198584e4167e1b4c4b8f3dde445708775a4841561",
+    "bytes": 113614,
+    "title": "Growing stone fruits in the home garden | UMN Extension",
+    "extracted_characters": 24830
+  },
+  {
+    "id": "resource_007",
+    "url": "https://extension.umn.edu/vegetables/growing-sweet-corn",
+    "labels": [
+      "Corn / maize"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.umn.edu/vegetables/growing-sweet-corn",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_007_corn-maize.html",
+    "document_file": "documents/resource_007_corn-maize.md",
+    "sha256": "0e4905a111ae892faecaa658feb98a5ad47e849ceb22c75bf7b02e8d96f18a91",
+    "bytes": 87362,
+    "title": "Growing sweet corn in home gardens | UMN Extension",
+    "extracted_characters": 11466
+  },
+  {
+    "id": "resource_008",
+    "url": "https://extension.umn.edu/fruit/growing-grapes-home-garden",
+    "labels": [
+      "Grape"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.umn.edu/fruit/growing-grapes-home-garden",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_008_grape.html",
+    "document_file": "documents/resource_008_grape.md",
+    "sha256": "a4eae20f1362baa458dbf51e8adf00eab07bd487a97aac7d9a94ef59abb44c93",
+    "bytes": 89038,
+    "title": "Growing grapes in the home garden | UMN Extension",
+    "extracted_characters": 17979
+  },
+  {
+    "id": "resource_009",
+    "url": "https://www.aces.edu/blog/topics/fruits-lawn-garden/citrus-tree-care-for-the-home-gardener/",
+    "labels": [
+      "Orange / citrus"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://www.aces.edu/blog/topics/fruits-lawn-garden/citrus-tree-care-for-the-home-gardener/",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_009_orange-citrus.html",
+    "document_file": "documents/resource_009_orange-citrus.md",
+    "sha256": "e157f25fb6c2c3317523dfedaf5d1bffe3352ed63163cc0e589fa1e47a4cf3ad",
+    "bytes": 160749,
+    "title": "Citrus Tree Care for the Home Gardener - Alabama Cooperative Extension System",
+    "extracted_characters": 18379
+  },
+  {
+    "id": "resource_010",
+    "url": "https://extension.umn.edu/vegetables/growing-peppers",
+    "labels": [
+      "Bell pepper"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.umn.edu/vegetables/growing-peppers",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_010_bell-pepper.html",
+    "document_file": "documents/resource_010_bell-pepper.md",
+    "sha256": "0cb781bd41656b91ef7a0197462b41d4168f88251fde83e91cac0e2b421ae9bd",
+    "bytes": 72067,
+    "title": "Growing peppers | UMN Extension",
+    "extracted_characters": 10703
+  },
+  {
+    "id": "resource_011",
+    "url": "https://extension.umn.edu/vegetables/growing-potatoes",
+    "labels": [
+      "Potato"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.umn.edu/vegetables/growing-potatoes",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_011_potato.html",
+    "document_file": "documents/resource_011_potato.md",
+    "sha256": "97d4aba6e93fb44703babded7b41134552770bb9a3f61eb988ec22544e9d7f77",
+    "bytes": 77847,
+    "title": "Growing potatoes in home gardens | UMN Extension",
+    "extracted_characters": 13941
+  },
+  {
+    "id": "resource_012",
+    "url": "https://extension.umn.edu/fruit/growing-raspberries-home-garden",
+    "labels": [
+      "Raspberry"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.umn.edu/fruit/growing-raspberries-home-garden",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_012_raspberry.html",
+    "document_file": "documents/resource_012_raspberry.md",
+    "sha256": "6f6c23102edcd89e9e272611389a3097107f93a228849e30290c594aa026082b",
+    "bytes": 119654,
+    "title": "Growing raspberries in the home garden | UMN Extension",
+    "extracted_characters": 27175
+  },
+  {
+    "id": "resource_013",
+    "url": "https://extension.umn.edu/soybean/growing-soybean",
+    "labels": [
+      "Soybean"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.umn.edu/soybean/growing-soybean",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_013_soybean.html",
+    "document_file": "documents/resource_013_soybean.md",
+    "sha256": "e95086a75e037cdfa138a7abe80b157bf5632d6bd69ba307e39f0228e8a86990",
+    "bytes": 38030,
+    "title": "Growing soybean | UMN Extension",
+    "extracted_characters": 833
+  },
+  {
+    "id": "resource_014",
+    "url": "https://extension.umn.edu/vegetables/growing-summer-squash-and-zucchini",
+    "labels": [
+      "Squash"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.umn.edu/vegetables/growing-summer-squash-and-zucchini",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_014_squash.html",
+    "document_file": "documents/resource_014_squash.md",
+    "sha256": "565b2d084d803d17b004f24911875e45995f4e87ad0b1437047db0bb571a3245",
+    "bytes": 65519,
+    "title": "Growing summer squash and zucchini in home gardens | UMN Extension",
+    "extracted_characters": 10177
+  },
+  {
+    "id": "resource_015",
+    "url": "https://extension.umn.edu/fruit/growing-strawberries-home-garden",
+    "labels": [
+      "Strawberry"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.umn.edu/fruit/growing-strawberries-home-garden",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_015_strawberry.html",
+    "document_file": "documents/resource_015_strawberry.md",
+    "sha256": "fc864000875be76cfa6df81e095971a9f6037e884878316e55bf69119319b09e",
+    "bytes": 152694,
+    "title": "Growing strawberries in the home garden | UMN Extension",
+    "extracted_characters": 40626
+  },
+  {
+    "id": "resource_016",
+    "url": "https://extension.umn.edu/vegetables/growing-tomatoes",
+    "labels": [
+      "Tomato"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.umn.edu/vegetables/growing-tomatoes",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_016_tomato.html",
+    "document_file": "documents/resource_016_tomato.md",
+    "sha256": "6e7a03d074ea30ebb26ca7985dc08f1fe9573d31d147c136a2ab237192448468",
+    "bytes": 75662,
+    "title": "Growing tomatoes in home gardens | UMN Extension",
+    "extracted_characters": 14164
+  },
+  {
+    "id": "resource_017",
+    "url": "https://extension.umn.edu/plant-diseases/apple-scab",
+    "labels": [
+      "Apple scab"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.umn.edu/plant-diseases/apple-scab",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_017_apple-scab.html",
+    "document_file": "documents/resource_017_apple-scab.md",
+    "sha256": "4d32c7fab39f2d54d167f8c6f915c818f9803716157b30874f3eae64e246ced5",
+    "bytes": 61137,
+    "title": "Apple scab of apples and crabapples | UMN Extension",
+    "extracted_characters": 12839
+  },
+  {
+    "id": "resource_018",
+    "url": "https://www.apsnet.org/edcenter/pdlessons/Pages/AppleScab.aspx",
+    "labels": [
+      "Apple scab"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://www.apsnet.org/edcenter/pdlessons/Pages/AppleScab.aspx",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_018_apple-scab.html",
+    "document_file": "documents/resource_018_apple-scab.md",
+    "sha256": "d4c94bd850d1b15155c8d79011940a5bee04455476d705e5e763300db3aac8ef",
+    "bytes": 185139,
+    "title": "Apple scab",
+    "extracted_characters": 40211
+  },
+  {
+    "id": "resource_019",
+    "url": "https://extension.umn.edu/plant-diseases/black-rot-apple",
+    "labels": [
+      "Apple black rot"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.umn.edu/plant-diseases/black-rot-apple",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_019_apple-black-rot.html",
+    "document_file": "documents/resource_019_apple-black-rot.md",
+    "sha256": "e1462be82398868b733416e737bacb3e740b6c4a32b19c32a06e8cdb614b1436",
+    "bytes": 49377,
+    "title": "Black rot of apple | UMN Extension",
+    "extracted_characters": 5355
+  },
+  {
+    "id": "resource_020",
+    "url": "https://extension.umn.edu/plant-diseases/cedar-apple-rust",
+    "labels": [
+      "Apple cedar apple rust"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.umn.edu/plant-diseases/cedar-apple-rust",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_020_apple-cedar-apple-rust.html",
+    "document_file": "documents/resource_020_apple-cedar-apple-rust.md",
+    "sha256": "9f13e19e02b4f470ef52755c3ef58c0b282c9c2a5b7380169db50f5ae1eac0ba",
+    "bytes": 79473,
+    "title": "Cedar-apple rust and related rust diseases | UMN Extension",
+    "extracted_characters": 14572
+  },
+  {
+    "id": "resource_021",
+    "url": "https://treefruit.wsu.edu/crop-protection/disease-management/cherry-powdery-mildew/",
+    "labels": [
+      "Cherry powdery mildew"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://treefruit.wsu.edu/crop-protection/disease-management/cherry-powdery-mildew/",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_021_cherry-powdery-mildew.html",
+    "document_file": "documents/resource_021_cherry-powdery-mildew.md",
+    "sha256": "cda42e0e975a3e04d9e3a4ea4ea48fb556949f0baad938d2bf0263ce31b51799",
+    "bytes": 76461,
+    "title": "Cherry Powdery Mildew | WSU Tree Fruit | Washington State University",
+    "extracted_characters": 11113
+  },
+  {
+    "id": "resource_022",
+    "url": "https://pnwhandbooks.org/plantdisease/host-disease/cherry-prunus-spp-powdery-mildew",
+    "labels": [
+      "Cherry powdery mildew"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://pnwhandbooks.org/plantdisease/host-disease/cherry-prunus-spp-powdery-mildew",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_022_cherry-powdery-mildew.html",
+    "document_file": "documents/resource_022_cherry-powdery-mildew.md",
+    "sha256": "7b9858b5a22765d5cdce8893bc96f4ae46be6ccba32677c8855b6fd221c87ced",
+    "bytes": 88261,
+    "title": "Cherry (Prunus spp.)-Powdery Mildew | Pacific Northwest Pest Management Handbooks",
+    "extracted_characters": 46455
+  },
+  {
+    "id": "resource_023",
+    "url": "https://extension.umn.edu/corn-pest-management/gray-leaf-spot-corn",
+    "labels": [
+      "Corn gray leaf spot"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.umn.edu/corn-pest-management/gray-leaf-spot-corn",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_023_corn-gray-leaf-spot.html",
+    "document_file": "documents/resource_023_corn-gray-leaf-spot.md",
+    "sha256": "cf73f165670c8dc2a51f68e50c831054aaac6466dfe6eb1aa7dd844743820bf0",
+    "bytes": 40711,
+    "title": "Gray leaf spot on corn | UMN Extension",
+    "extracted_characters": 2149
+  },
+  {
+    "id": "resource_024",
+    "url": "https://content.ces.ncsu.edu/gray-leaf-spot-in-corn",
+    "labels": [
+      "Corn gray leaf spot"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://content.ces.ncsu.edu/gray-leaf-spot-in-corn",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_024_corn-gray-leaf-spot.html",
+    "document_file": "documents/resource_024_corn-gray-leaf-spot.md",
+    "sha256": "d27e1234bddc3acacfbf0ff25dc14d1c015d3c573e1f0e334a049f94f9966a50",
+    "bytes": 38800,
+    "title": "Gray Leaf Spot in Corn | NC State Extension Publications",
+    "extracted_characters": 9362
+  },
+  {
+    "id": "resource_025",
+    "url": "https://extension.umn.edu/corn-pest-management/common-rust-corn",
+    "labels": [
+      "Corn common rust"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.umn.edu/corn-pest-management/common-rust-corn",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_025_corn-common-rust.html",
+    "document_file": "documents/resource_025_corn-common-rust.md",
+    "sha256": "c10bc1d393d93f01131ae7afe0c0ef47d4009663be39392f8b20a1941127309f",
+    "bytes": 36527,
+    "title": "Common rust on corn | UMN Extension",
+    "extracted_characters": 1892
+  },
+  {
+    "id": "resource_026",
+    "url": "https://content.ces.ncsu.edu/corn-rusts-common-and-southern-rust",
+    "labels": [
+      "Corn common rust"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://content.ces.ncsu.edu/corn-rusts-common-and-southern-rust",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_026_corn-common-rust.html",
+    "document_file": "documents/resource_026_corn-common-rust.md",
+    "sha256": "1217cd025caba62be546bc2c8e94ccd4fb0f45f0118d50e3be62652869af1ee6",
+    "bytes": 37729,
+    "title": "Corn Rusts: Common and Southern Rust | NC State Extension Publications",
+    "extracted_characters": 8254
+  },
+  {
+    "id": "resource_027",
+    "url": "https://cropprotectionnetwork.org/publications/an-overview-of-northern-corn-leaf-blight",
+    "labels": [
+      "Corn northern leaf blight"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://cropprotectionnetwork.org/publications/an-overview-of-northern-corn-leaf-blight",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_027_corn-northern-leaf-blight.html",
+    "document_file": "documents/resource_027_corn-northern-leaf-blight.md",
+    "sha256": "085e7ea80d257249d1b0c2103e13cebd722c9165e994d5807d36911d80c12dac",
+    "bytes": 86817,
+    "title": "Crop Protection Network",
+    "extracted_characters": 13447
+  },
+  {
+    "id": "resource_028",
+    "url": "https://ohioline.osu.edu/factsheet/plpath-fru-24",
+    "labels": [
+      "Grape black rot"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://ohioline.osu.edu/factsheet/plpath-fru-24",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_028_grape-black-rot.html",
+    "document_file": "documents/resource_028_grape-black-rot.md",
+    "sha256": "4aa12f141f5213dee00db82e6ad4ca7808df9e9f68882a4c17ee22aa7cf75deb",
+    "bytes": 117799,
+    "title": "Grape Black Rot | Ohioline",
+    "extracted_characters": 5038
+  },
+  {
+    "id": "resource_029",
+    "url": "https://extension.psu.edu/grape-disease-black-rot/",
+    "labels": [
+      "Grape black rot"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.psu.edu/grape-disease-black-rot",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_029_grape-black-rot.html",
+    "document_file": "documents/resource_029_grape-black-rot.md",
+    "sha256": "06263afcc5258d06b066684eae8f9388ff6df3b38cec4fdc3dd1754d86a5cc34",
+    "bytes": 366305,
+    "title": "Grape Disease - Black Rot",
+    "extracted_characters": 2418
+  },
+  {
+    "id": "resource_030",
+    "url": "https://ipm.ucanr.edu/agriculture/grape/esca-black-measles/",
+    "labels": [
+      "Grape Esca / black measles"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://ipm.ucanr.edu/agriculture/grape/esca-black-measles/",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_030_grape-esca-black-measles.html",
+    "document_file": "documents/resource_030_grape-esca-black-measles.md",
+    "sha256": "d0178198e9b66c0475ef51f477aa47a2be3e56210189c3840f6b8a8076ba1b1a",
+    "bytes": 28485,
+    "title": "Esca (Black Measles) / Grape / Agriculture: Pest Management Guidelines / UC Statewide IPM Program (UC IPM)",
+    "extracted_characters": 3608
+  },
+  {
+    "id": "resource_031",
+    "url": "https://pnwhandbooks.org/plantdisease/host-disease/grape-vitis-spp-esca-young-esca-petri-disease",
+    "labels": [
+      "Grape Esca / black measles"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://pnwhandbooks.org/plantdisease/host-disease/grape-vitis-spp-esca-young-esca-petri-disease",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_031_grape-esca-black-measles.html",
+    "document_file": "documents/resource_031_grape-esca-black-measles.md",
+    "sha256": "4fecfffa8177bc17090a593cfa3bc56014b3d4b71367d886780f6a543b8e19f5",
+    "bytes": 78557,
+    "title": "Grape (Vitis spp.)-Esca, Young Esca, and Petri Disease | Pacific Northwest Pest Management Handbooks",
+    "extracted_characters": 40497
+  },
+  {
+    "id": "resource_032",
+    "url": "https://content.ces.ncsu.edu/pdf/chapter-8-pest-management/2014-10-16/winegrapes8.pdf",
+    "labels": [
+      "Grape leaf blight / Isariopsis leaf spot"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "application/pdf",
+    "final_url": "https://content.ces.ncsu.edu/pdf/chapter-8-pest-management/2014-10-16/winegrapes8.pdf",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_032_grape-leaf-blight-isariopsis-leaf-spot.pdf",
+    "document_file": "documents/resource_032_grape-leaf-blight-isariopsis-leaf-spot.md",
+    "sha256": "f4ab407870a149168f3250de01a96f421f0b549318dbfb23712e6c87f6a1f45c",
+    "bytes": 2621788,
+    "title": "resource_032_grape-leaf-blight-isariopsis-leaf-spot",
+    "extracted_characters": 106130
+  },
+  {
+    "id": "resource_033",
+    "url": "https://cafs.famu.edu/departments-and-centers/research/center-for-viticulture-and-small-fruit-research/pdf/Post-Harvest-Vineyard-Management-fact-sheet.pdf",
+    "labels": [
+      "Grape leaf blight / Isariopsis leaf spot"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "application/pdf",
+    "final_url": "https://cafs.famu.edu/departments-and-centers/research/center-for-viticulture-and-small-fruit-research/pdf/Post-Harvest-Vineyard-Management-fact-sheet.pdf",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_033_grape-leaf-blight-isariopsis-leaf-spot.pdf",
+    "document_file": "documents/resource_033_grape-leaf-blight-isariopsis-leaf-spot.md",
+    "sha256": "bb47521d048b27919242f477e69143e9f5954fa40709016d542d55531ac2c7b5",
+    "bytes": 1071616,
+    "title": "resource_033_grape-leaf-blight-isariopsis-leaf-spot",
+    "extracted_characters": 8415
+  },
+  {
+    "id": "resource_034",
+    "url": "https://www.aphis.usda.gov/plant-pests-diseases/citrus-diseases/citrus-greening-and-asian-citrus-psyllid",
+    "labels": [
+      "Orange Huanglongbing / citrus greening"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/plain",
+    "final_url": "https://www.aphis.usda.gov/plant-pests-diseases/citrus-diseases/citrus-greening-and-asian-citrus-psyllid",
+    "retrieval_method": "jina_reader",
+    "raw_file": "raw/resource_034_orange-huanglongbing-citrus-greening.txt",
+    "document_file": "documents/resource_034_orange-huanglongbing-citrus-greening.md",
+    "sha256": "d64104bf6793d9cd45b4d9792051a7a59df4f7b6cc1a18198c6bbb39b8dffe07",
+    "bytes": 30441,
+    "title": "",
+    "extracted_characters": 30428
+  },
+  {
+    "id": "resource_035",
+    "url": "https://ipm.ucanr.edu/home-and-landscape/asian-citrus-psyllid-and-huanglongbing-disease/",
+    "labels": [
+      "Orange Huanglongbing / citrus greening"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://ipm.ucanr.edu/home-and-landscape/asian-citrus-psyllid-and-huanglongbing-disease/",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_035_orange-huanglongbing-citrus-greening.html",
+    "document_file": "documents/resource_035_orange-huanglongbing-citrus-greening.md",
+    "sha256": "f92eb22c84931c4fb6ee3b07bed7ba6325d59da344b33ac82deb68fbd342c189",
+    "bytes": 67427,
+    "title": "Asian Citrus Psyllid and Huanglongbing Disease / Home and Landscape / UC Statewide IPM Program (UC IPM)",
+    "extracted_characters": 24918
+  },
+  {
+    "id": "resource_036",
+    "url": "https://ohioline.osu.edu/factsheet/plpath-fru-38",
+    "labels": [
+      "Peach bacterial spot"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://ohioline.osu.edu/factsheet/plpath-fru-38",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_036_peach-bacterial-spot.html",
+    "document_file": "documents/resource_036_peach-bacterial-spot.md",
+    "sha256": "255d66daf94dec52d00b9c317553d446d67e32c9586238db444681ad3775310d",
+    "bytes": 119824,
+    "title": "Bacterial Spot of Stone Fruits | Ohioline",
+    "extracted_characters": 6342
+  },
+  {
+    "id": "resource_037",
+    "url": "https://www.aces.edu/blog/topics/crop-production/bacterial-spot-treatment-in-peaches/",
+    "labels": [
+      "Peach bacterial spot"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://www.aces.edu/blog/topics/crop-production/bacterial-spot-treatment-in-peaches/",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_037_peach-bacterial-spot.html",
+    "document_file": "documents/resource_037_peach-bacterial-spot.md",
+    "sha256": "16305b4e037579d58f720029a5296d543a74b256a99f0afc99f943d7b0d87e14",
+    "bytes": 154989,
+    "title": "Bacterial Spot Treatment in Peaches - Alabama Cooperative Extension System",
+    "extracted_characters": 7391
+  },
+  {
+    "id": "resource_038",
+    "url": "https://extension.umn.edu/disease-management/bacterial-spot-tomato-and-pepper",
+    "labels": [
+      "Bell pepper bacterial spot",
+      "Tomato bacterial spot"
+    ],
+    "source_entry_count": 2,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.umn.edu/disease-management/bacterial-spot-tomato-and-pepper",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_038_bell-pepper-bacterial-spot.html",
+    "document_file": "documents/resource_038_bell-pepper-bacterial-spot.md",
+    "sha256": "a4a191065e5ffc84cb752f5e5b377c7276650b76513b3190d93fc1349d7b487f",
+    "bytes": 66349,
+    "title": "Bacterial spot of tomato and pepper | UMN Extension",
+    "extracted_characters": 7723
+  },
+  {
+    "id": "resource_039",
+    "url": "https://lgpress.clemson.edu/publication/controlling-bacterial-spot-on-tomato-and-pepper/",
+    "labels": [
+      "Bell pepper bacterial spot"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://lgpress.clemson.edu/publication/controlling-bacterial-spot-on-tomato-and-pepper/",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_039_bell-pepper-bacterial-spot.html",
+    "document_file": "documents/resource_039_bell-pepper-bacterial-spot.md",
+    "sha256": "a334fc3db936099ee3f139b57f9e72c849d1aebef39c51e65a9fae1e5085cce1",
+    "bytes": 129550,
+    "title": "Controlling Bacterial Spot on Tomato and Pepper | Land-Grant Press",
+    "extracted_characters": 12193
+  },
+  {
+    "id": "resource_040",
+    "url": "https://www.ndsu.edu/agriculture/extension/publications/early-blight-potato",
+    "labels": [
+      "Potato early blight"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://www.ndsu.edu/agriculture/extension/publications/early-blight-potato",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_040_potato-early-blight.html",
+    "document_file": "documents/resource_040_potato-early-blight.md",
+    "sha256": "486beb8a3bc4e80d713da8c1682114afb8967531dc68b49af74f9ae0f403e5d2",
+    "bytes": 65986,
+    "title": "Early Blight of Potato | NDSU Agriculture",
+    "extracted_characters": 13636
+  },
+  {
+    "id": "resource_041",
+    "url": "https://extension.umn.edu/disease-management/early-blight-tomato-and-potato",
+    "labels": [
+      "Potato early blight",
+      "Tomato early blight"
+    ],
+    "source_entry_count": 2,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.umn.edu/disease-management/early-blight-tomato-and-potato",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_041_potato-early-blight.html",
+    "document_file": "documents/resource_041_potato-early-blight.md",
+    "sha256": "ecc63682a76553afc75b47c38a576ecb63f51e5f4b0574d3389d9ddc6dbee874",
+    "bytes": 54511,
+    "title": "Early blight in tomato and potato | UMN Extension",
+    "extracted_characters": 7617
+  },
+  {
+    "id": "resource_042",
+    "url": "https://www.ndsu.edu/agriculture/extension/publications/late-blight-potato",
+    "labels": [
+      "Potato late blight"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://www.ndsu.edu/agriculture/extension/publications/late-blight-potato",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_042_potato-late-blight.html",
+    "document_file": "documents/resource_042_potato-late-blight.md",
+    "sha256": "7305c64b24832a2efb48f403a20177d7b7d4c08bbf256ed2fa3a2121ca30e268",
+    "bytes": 51496,
+    "title": "Late Blight in Potato | NDSU Agriculture",
+    "extracted_characters": 9283
+  },
+  {
+    "id": "resource_043",
+    "url": "https://extension.umn.edu/disease-management/late-blight",
+    "labels": [
+      "Potato late blight",
+      "Tomato late blight"
+    ],
+    "source_entry_count": 2,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.umn.edu/disease-management/late-blight",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_043_potato-late-blight.html",
+    "document_file": "documents/resource_043_potato-late-blight.md",
+    "sha256": "d22d2091fbb46df486adb551b6df665f5565349a67b290824b49f9473aa4bae7",
+    "bytes": 62253,
+    "title": "Late blight of tomato and potato | UMN Extension",
+    "extracted_characters": 7128
+  },
+  {
+    "id": "resource_044",
+    "url": "https://extension.umn.edu/disease-management/powdery-mildew-cucurbits",
+    "labels": [
+      "Squash powdery mildew"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.umn.edu/disease-management/powdery-mildew-cucurbits",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_044_squash-powdery-mildew.html",
+    "document_file": "documents/resource_044_squash-powdery-mildew.md",
+    "sha256": "4a6c92c3cd6b388f22d096b658eefcc01109e206ab759caf60011e777cc2db98",
+    "bytes": 50297,
+    "title": "Powdery mildew of cucurbits | UMN Extension",
+    "extracted_characters": 4365
+  },
+  {
+    "id": "resource_045",
+    "url": "https://pnwhandbooks.org/plantdisease/host-disease/squash-cucurbita-spp-powdery-mildew",
+    "labels": [
+      "Squash powdery mildew"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://pnwhandbooks.org/plantdisease/host-disease/squash-cucurbita-spp-powdery-mildew",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_045_squash-powdery-mildew.html",
+    "document_file": "documents/resource_045_squash-powdery-mildew.md",
+    "sha256": "439b144192fc114ef136305c5d9449453987597a8442fe7645ae62a97eaa604d",
+    "bytes": 82219,
+    "title": "Squash (Cucurbita spp.)-Powdery Mildew | Pacific Northwest Pest Management Handbooks",
+    "extracted_characters": 42961
+  },
+  {
+    "id": "resource_046",
+    "url": "https://content.ces.ncsu.edu/leaf-scorch-of-strawberry",
+    "labels": [
+      "Strawberry leaf scorch"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://content.ces.ncsu.edu/leaf-scorch-of-strawberry",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_046_strawberry-leaf-scorch.html",
+    "document_file": "documents/resource_046_strawberry-leaf-scorch.md",
+    "sha256": "3977ad0f886889d01100e711878ea9c1548e51556df98070c95102f2e5a6cb13",
+    "bytes": 42968,
+    "title": "Leaf Scorch of Strawberry | NC State Extension Publications",
+    "extracted_characters": 9223
+  },
+  {
+    "id": "resource_047",
+    "url": "https://ohioline.osu.edu/factsheet/plpath-fru-35",
+    "labels": [
+      "Strawberry leaf scorch"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://ohioline.osu.edu/factsheet/plpath-fru-35",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_047_strawberry-leaf-scorch.html",
+    "document_file": "documents/resource_047_strawberry-leaf-scorch.md",
+    "sha256": "7f0796ecd931742e5da89cda49bbb06100af6c97d4f6f7bdacfc94e65352ee06",
+    "bytes": 118984,
+    "title": "Strawberry Leaf Diseases | Ohioline",
+    "extracted_characters": 5436
+  },
+  {
+    "id": "resource_048",
+    "url": "https://ask.ifas.ufl.edu/publication/PP353",
+    "labels": [
+      "Tomato bacterial spot"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://ask.ifas.ufl.edu/publication/PP353",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_048_tomato-bacterial-spot.html",
+    "document_file": "documents/resource_048_tomato-bacterial-spot.md",
+    "sha256": "bfeab2896007170c999bc4a9e05e7e211df822c39da0ef952faf628fadd402a6",
+    "bytes": 148847,
+    "title": "PP353/PP353: Integrated Management of Bacterial Spot on Tomato in Florida",
+    "extracted_characters": 28845
+  },
+  {
+    "id": "resource_049",
+    "url": "https://content.ces.ncsu.edu/early-blight-of-tomato",
+    "labels": [
+      "Tomato early blight"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://content.ces.ncsu.edu/early-blight-of-tomato",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_049_tomato-early-blight.html",
+    "document_file": "documents/resource_049_tomato-early-blight.md",
+    "sha256": "4850d48035fe066d08ece283b4f9ae0d5b29e6d880e9def018da2fb673c173a4",
+    "bytes": 67534,
+    "title": "Early Blight of Tomato | NC State Extension Publications",
+    "extracted_characters": 8085
+  },
+  {
+    "id": "resource_050",
+    "url": "https://pubs.extension.wsu.edu/product/season-long-management-of-late-blight-on-potato-and-tomato-in-western-washington/",
+    "labels": [
+      "Tomato late blight"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://pubs.extension.wsu.edu/product/season-long-management-of-late-blight-on-potato-and-tomato-in-western-washington/",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_050_tomato-late-blight.html",
+    "document_file": "documents/resource_050_tomato-late-blight.md",
+    "sha256": "8680c6b9a0d176b887f5d30667eac25dbd2785de034ffc5be1ae518b750f1c4f",
+    "bytes": 97126,
+    "title": "Season-Long Management of Late Blight on Potato and Tomato in Western Washington | WSU Extension Publications | Washington State University",
+    "extracted_characters": 3453
+  },
+  {
+    "id": "resource_051",
+    "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/tomato-leaf-mold/",
+    "labels": [
+      "Tomato leaf mold"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/tomato-leaf-mold/",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_051_tomato-leaf-mold.html",
+    "document_file": "documents/resource_051_tomato-leaf-mold.md",
+    "sha256": "6b79f22924d48c279bd2a6b3d5812d90d391475bba469cc321c62845ca0bcb77",
+    "bytes": 60845,
+    "title": "Tomato Leaf Mold | Cornell Vegetables",
+    "extracted_characters": 4113
+  },
+  {
+    "id": "resource_052",
+    "url": "https://extension.umn.edu/disease-management/tomato-leaf-mold",
+    "labels": [
+      "Tomato leaf mold"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.umn.edu/disease-management/tomato-leaf-mold",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_052_tomato-leaf-mold.html",
+    "document_file": "documents/resource_052_tomato-leaf-mold.md",
+    "sha256": "a2909654df0f8cf37eb9311a8695cd0eb0e7fa6274d544b82429208b2e299f37",
+    "bytes": 55110,
+    "title": "Tomato leaf mold | UMN Extension",
+    "extracted_characters": 7052
+  },
+  {
+    "id": "resource_053",
+    "url": "https://content.ces.ncsu.edu/septoria-leaf-spot-of-tomato",
+    "labels": [
+      "Tomato Septoria leaf spot"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://content.ces.ncsu.edu/septoria-leaf-spot-of-tomato",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_053_tomato-septoria-leaf-spot.html",
+    "document_file": "documents/resource_053_tomato-septoria-leaf-spot.md",
+    "sha256": "c7463fa715d688c58accd483c0dc64c0c4b99ce08bd8c26441d63dca55b83d04",
+    "bytes": 58496,
+    "title": "Septoria Leaf Spot of Tomato | NC State Extension Publications",
+    "extracted_characters": 7900
+  },
+  {
+    "id": "resource_054",
+    "url": "https://extension.umn.edu/plant-diseases/tomato-leaf-spot-diseases",
+    "labels": [
+      "Tomato Septoria leaf spot"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.umn.edu/plant-diseases/tomato-leaf-spot-diseases",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_054_tomato-septoria-leaf-spot.html",
+    "document_file": "documents/resource_054_tomato-septoria-leaf-spot.md",
+    "sha256": "93d0788732bbb36f3a19ed9acacffeb7839e28e38dc078cec2b30178fbddae63",
+    "bytes": 44573,
+    "title": "Tomato leaf spot diseases | UMN Extension",
+    "extracted_characters": 5100
+  },
+  {
+    "id": "resource_055",
+    "url": "https://extension.umn.edu/yard-and-garden-insects/spider-mites",
+    "labels": [
+      "Tomato spider mites / two-spotted spider mite"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.umn.edu/yard-and-garden-insects/spider-mites",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_055_tomato-spider-mites-two-spotted-spider-mite.html",
+    "document_file": "documents/resource_055_tomato-spider-mites-two-spotted-spider-mite.md",
+    "sha256": "d5d4e4d2e8c238ab0a2c64e73c4d93d5e3be04d2e367fc2e5ec2d241b237c363",
+    "bytes": 47474,
+    "title": "Twospotted spider mites in home gardens | UMN Extension",
+    "extracted_characters": 6835
+  },
+  {
+    "id": "resource_056",
+    "url": "https://ask.ifas.ufl.edu/publication/PP351",
+    "labels": [
+      "Tomato target spot"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://ask.ifas.ufl.edu/publication/PP351",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_056_tomato-target-spot.html",
+    "document_file": "documents/resource_056_tomato-target-spot.md",
+    "sha256": "c75c72c1f1b9b8c2be52df08b3fd32b282ebf4465216a0bb23fb7fd359a54e10",
+    "bytes": 100250,
+    "title": "PP351/PP351: Target Spot of Tomato in Florida",
+    "extracted_characters": 11411
+  },
+  {
+    "id": "resource_057",
+    "url": "https://extension.umn.edu/disease-management/tomato-viruses",
+    "labels": [
+      "Tomato mosaic virus"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://extension.umn.edu/disease-management/tomato-viruses",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_057_tomato-mosaic-virus.html",
+    "document_file": "documents/resource_057_tomato-mosaic-virus.md",
+    "sha256": "d5a473f7ba9c62a95f9fff2db6d9960d394e02939d04af9e6865d6148e3b948b",
+    "bytes": 46818,
+    "title": "Tomato viruses | UMN Extension",
+    "extracted_characters": 8256
+  },
+  {
+    "id": "resource_058",
+    "url": "https://content.ces.ncsu.edu/tobamoviruses-that-affect-tomato-tmv-tomv-tobrfv",
+    "labels": [
+      "Tomato mosaic virus"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://content.ces.ncsu.edu/tobamoviruses-that-affect-tomato-tmv-tomv-tobrfv",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_058_tomato-mosaic-virus.html",
+    "document_file": "documents/resource_058_tomato-mosaic-virus.md",
+    "sha256": "812af9b9903b639b04e28e52100e4e35d9eebf3729cfb8b0fd362f7df3a33486",
+    "bytes": 60424,
+    "title": "Tobamoviruses that affect tomato (TMV, ToMV, ToBRFV) | NC State Extension Publications",
+    "extracted_characters": 10776
+  },
+  {
+    "id": "resource_059",
+    "url": "https://content.ces.ncsu.edu/tomato-yellow-leaf-curl-virus",
+    "labels": [
+      "Tomato yellow leaf curl virus"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://content.ces.ncsu.edu/tomato-yellow-leaf-curl-virus",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_059_tomato-yellow-leaf-curl-virus.html",
+    "document_file": "documents/resource_059_tomato-yellow-leaf-curl-virus.md",
+    "sha256": "efa7fc6a4d65d02a4f73fb2757048e213a63d492a5f70745d201b7ff5a608825",
+    "bytes": 58142,
+    "title": "Tomato Yellow Leaf Curl Virus | NC State Extension Publications",
+    "extracted_characters": 12096
+  },
+  {
+    "id": "resource_060",
+    "url": "https://ipm.ucanr.edu/agriculture/tomato/tomato-yellow-leaf-curl/",
+    "labels": [
+      "Tomato yellow leaf curl virus"
+    ],
+    "source_entry_count": 1,
+    "retrieved_at": "2026-05-23T11:10:06+00:00",
+    "status": "success",
+    "status_code": 200,
+    "content_type": "text/html",
+    "final_url": "https://ipm.ucanr.edu/agriculture/tomato/tomato-yellow-leaf-curl/",
+    "retrieval_method": "direct",
+    "raw_file": "raw/resource_060_tomato-yellow-leaf-curl-virus.html",
+    "document_file": "documents/resource_060_tomato-yellow-leaf-curl-virus.md",
+    "sha256": "d05e911defaa39a7ddf8d0ec726f64ceaf8bf29636f378398b1cc7e90dce425b",
+    "bytes": 30879,
+    "title": "Tomato Yellow Leaf Curl / Tomato / Agriculture: Pest Management Guidelines / UC Statewide IPM Program (UC IPM)",
+    "extracted_characters": 6198
+  }
+]

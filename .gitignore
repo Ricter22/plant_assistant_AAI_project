@@ -1,0 +1,30 @@
+# Python and local tooling
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Runtime outputs
+logs/
+data/uploads/*
+!data/uploads/.gitkeep
+
+# Large datasets. Keep only the compact reviewer test set.
+datasets/plant-diseases/*
+!datasets/plant-diseases/test/
+!datasets/plant-diseases/test/**
+datasets/plant-diseases/test/**/.ipynb_checkpoints/
+
+# Raw downloaded RAG sources can be rebuilt; keep markdown resources and Chroma DB.
+datasets/resources/raw/
+
+# Local OS/editor files
+.DS_Store
+.idea/
+.vscode/

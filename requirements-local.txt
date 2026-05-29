@@ -1,0 +1,17 @@
+chromadb
+fastmcp
+langchain
+langchain-chroma
+langchain-huggingface
+langchain-mcp-adapters
+langchain-ollama
+matplotlib
+numpy
+opencv-python-headless
+pillow
+pydantic
+sentence-transformers
+shap
+streamlit
+tensorflow
+torchvision
