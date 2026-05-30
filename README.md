@@ -13,6 +13,8 @@ This project runs a local plant disease assistant from Python. The runtime app i
 Install Ollama and pull the configured multimodal model:
 
 ```bash
+curl -fsSL https://ollama.com/install.sh | sh
+ollama serve &
 ollama pull qwen3.6:latest
 ```
 
@@ -52,21 +54,19 @@ The existing notebooks document how the models and vector database were created.
 
 ## Repository Contents
 
-The repository intentionally includes only the compact reviewer test images in:
+- `data/` stores local runtime data created or used by the app. The `data/uploads/` folder is where uploaded plant images are placed during local use.
 
-```text
-datasets/plant-diseases/test/test
-```
+- `datasets/` contains project datasets and supporting source material. `datasets/plant-diseases/` includes the compact reviewer test images, while `datasets/resources/` contains normalized Markdown plant disease references, an index, download helper files, and useful links for the RAG pipeline.
 
-The full augmented training and validation dataset is excluded from git because it is large. The downloaded raw RAG source files are also excluded; the normalized Markdown resources, resource index, and persisted Chroma vector database are included so the app and smoke checks can run locally.
+- `notebooks/` contains the experimental notebooks used to train and test the plant disease models. It also stores the trained `.keras` models and class-name mapping used by the runtime app.
 
-## Smoke Checks
+- `rag/` contains retrieval-augmented generation assets. `rag/chroma_db/` is the persisted Chroma vector database used for local disease-management retrieval.
 
-From the local Python environment:
+- `scripts/` contains local helper entrypoints. `run_local.py` starts the MCP server and Streamlit app, and `smoke_check.py` verifies that required assets, retrieval, and prediction paths work.
 
-```bash
-PYTHONPATH=src python scripts/smoke_check.py --prediction-image datasets/plant-diseases/test/test/AppleCedarRust1.JPG
-```
+- `src/` contains the runtime Python package. `src/plant_assistant/` holds app settings, health checks, the MCP server, agent logic, MCP tools/resources/retrieval code, and the Streamlit UI.
+
+The repository intentionally includes only the compact reviewer test images in `datasets/plant-diseases/test/test`. The full augmented training and validation dataset is excluded from git because it is large. The downloaded raw RAG source files are also excluded; the normalized Markdown resources, resource index, and persisted Chroma vector database are included so the app and smoke checks can run locally.
 
 ## Configuration
 
