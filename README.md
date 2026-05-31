@@ -10,6 +10,8 @@ This project runs a local plant disease assistant from Python. The runtime app i
 
 ## Setup
 
+This project requires a gpu as the qwen model selected needs around 25GB of VRAM. For the project development I used a B200, but smaller machines are suitable as well.
+
 Install Ollama and pull the configured multimodal model:
 
 ```bash
